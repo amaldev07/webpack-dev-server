@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack ./src/js/app.js -o dist/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amaldev07/webpack.git"
@@ -17,10 +13,12 @@
     "url": "https://github.com/amaldev07/webpack/issues"
   },
   "homepage": "https://github.com/amaldev07/webpack#readme",
-  "dependencies": {
-    "webpack": "^5.88.0"
+  "scripts": {
+    "start": "webpack serve --mode development --entry ./src/js/app.js --output-filename ./dist/main.js"
   },
   "devDependencies": {
-    "webpack-cli": "^5.1.4"
+    "webpack": "5.50.0",
+    "webpack-cli": "4.8.0",
+    "webpack-dev-server": "4.15.1"
   }
 }
