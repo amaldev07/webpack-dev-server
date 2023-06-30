@@ -1,0 +1,15 @@
+Working with Angular 12 modules, services, templates, directives, and dependency injection to create a SPA.
+Hands-on Experience on Angular CLI (Command line Interface), Reactive Forms, or Web Forms 2.0 in Angular 12 and their Validations.
+Using Chrome Developer Tools for troubleshooting the code.
+Writing code coverage using Jasmine and Karma.
+Extensively used git for version control, familiar with Forking, git clone, git merge, and pull request.
+Developing software solutions by studying information needs, conferring with users, studying systems flow, data usage, and work processes to meet customer deadlines within project budgets.
+Reviewed pull request changes.
+Rendering technical support in the design and development of applications, assisting in the development of new systems, and enhancing existing systems based on requirements.
+Interacting with team members to ensure the smooth progress of project work, ensuring adherence to quality norms throughout the implementation process.
+Assisting in code review and providing the best possible solution for implementation.
+Suggesting technology-based solutions for enhancing functional efficiency and achieving business excellence.
+Contributing to the development and review of business and system requirements to obtain a thorough understanding of business needs in order to deliver accurate solutions.
+Defining the strategies, technical architecture, and other technology directions for implementation and operations of services, product support, quality assurance, and training.
+Participating in requirements gathering, including interacting with business users, managing various technical aspects such as software design, coding, monitoring critical paths, and taking necessary appropriate actions.
+Defining product standards and guidelines, governance structure, best practices for product delivery life cycle (SDLC), and documentation that serve as benchmarks for excellent product delivery.
